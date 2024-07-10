@@ -1,4 +1,5 @@
 import img from './gallery/photo1.jpg'
+import user from './gallery/user_icon.png'
 export const users_fake = [
     {
         id: 1,
@@ -6,7 +7,7 @@ export const users_fake = [
         likes: 450,
         coments: 20,
         photo: img,
-        user_icon: 'src/Slider/gallery/user_icon.png'
+        user_icon: user
     },
     {
         id: 2,
@@ -14,7 +15,7 @@ export const users_fake = [
         likes: 290,
         coments: 20,
         photo: img,
-        user_icon: 'src/Slider/gallery/user_icon.png'
+        user_icon: user
     },
     {
         id: 3,
@@ -22,7 +23,7 @@ export const users_fake = [
         likes: 380,
         coments: 20,
         photo: img,
-        user_icon: 'src/Slider/gallery/user_icon.png'
+        user_icon: user
     },
     {
         id: 5,
@@ -30,7 +31,7 @@ export const users_fake = [
         likes: 380,
         coments: 20,
         photo: img,
-        user_icon: 'src/Slider/gallery/user_icon.png'
+        user_icon: user
     },
     {
         id: 5,
@@ -38,6 +39,6 @@ export const users_fake = [
         likes: 380,
         coments: 20,
         photo: img,
-        user_icon: 'src/Slider/gallery/user_icon.png'
+        user_icon: user
     },
 ]
