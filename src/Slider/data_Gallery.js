@@ -1,10 +1,11 @@
+import img from './gallery/photo1.jpg'
 export const users_fake = [
     {
         id: 1,
         username: '@davis33_z',
         likes: 450,
         coments: 20,
-        photo: 'src/Slider/gallery/photo1.jpg',
+        photo: img,
         user_icon: 'src/Slider/gallery/user_icon.png'
     },
     {
@@ -12,7 +13,7 @@ export const users_fake = [
         username: '@juanSD333',
         likes: 290,
         coments: 20,
-        photo: 'src/Slider/gallery/photo2.jpg',
+        photo: img,
         user_icon: 'src/Slider/gallery/user_icon.png'
     },
     {
@@ -20,7 +21,7 @@ export const users_fake = [
         username: '@davis33_z',
         likes: 380,
         coments: 20,
-        photo: 'src/Slider/gallery/photo3.png',
+        photo: img,
         user_icon: 'src/Slider/gallery/user_icon.png'
     },
     {
@@ -28,7 +29,7 @@ export const users_fake = [
         username: '@davis33_z',
         likes: 380,
         coments: 20,
-        photo: 'src/Slider/gallery/photo3.png',
+        photo: img,
         user_icon: 'src/Slider/gallery/user_icon.png'
     },
     {
@@ -36,7 +37,7 @@ export const users_fake = [
         username: '@davis33_z',
         likes: 380,
         coments: 20,
-        photo: 'src/Slider/gallery/photo3.png',
+        photo: img,
         user_icon: 'src/Slider/gallery/user_icon.png'
     },
 ]
