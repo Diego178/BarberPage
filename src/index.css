@@ -1,0 +1,24 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.degradedBlue {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: 5px 0;
+  }
+
+  body {
+    background-color: black;
+    color: white; /* Opcional: para que el texto sea blanco y sea legible sobre el fondo negro */
+  }
+
+  .swiper-pagination-bullet {
+    background-color: #F4F6F7; /* Cambia el color aquí */
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #ff0000; /* Cambia el color aquí */
+  }
